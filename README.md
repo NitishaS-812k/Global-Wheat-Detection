@@ -1,6 +1,6 @@
 # Global-Wheat-Detection
 <p>Notebooks made for the Kaggle Global Wheat Detection Competition</p>
-<p>The Exploratory Data Analysis notebook maybe too big to be loaded by GitHub, in that case the same notebook cn be viewed <a href = "https://www.kaggle.com/daenys2000/global-wheat-detection-eda"> here</a> on Kaggle.</p>
+<p>The Exploratory Data Analysis notebook maybe too big to be loaded by GitHub, in that case the same notebook can be viewed <a href = "https://www.kaggle.com/daenys2000/global-wheat-detection-eda"> here</a> on Kaggle.</p>
 <p>The training notebook can be found on Kaggle <a href = "https://www.kaggle.com/daenys2000/fasterrcnn-pytorch">here</a>.</p>
 <p>The model used for training is Faster RCNN with a densenet169 backbone.Using a densenet backbone rather than a resnet backbone improved performance. Using an SGD optimizer with a learning rate of 0.01 and momentum of 0.9 gave better results than using an adaptive gradient descent algorithm like Adam or AdaMax.</p>
 <br>
